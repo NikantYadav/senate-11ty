@@ -1,9 +1,9 @@
 module.exports = {
   meta: {
-    title: "My Purple Blog",
-    description: "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+    title: "Students' Senate, IIT Kanpur",
+    description: "Official Site of Students' Senate of IIT Kanpur",
     lang: "en",
-    siteUrl: "https://example.com/",
+    siteUrl: "https://students.iitk.ac.in/ss",
   },
   feed: { // used in feed.xml.njk
     subtitle: "Lorem ipsum dolor sit amet consecuteor",
@@ -14,7 +14,7 @@ module.exports = {
     authorEmail: "johndoe@example.com"
   },
   hero: { // used in hero section of main page ie. index.html.njk
-    title: "Welcome to my purple blog",
-    description: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolores accusantium deserunt odio esse."
+    title: "Students' Senate, IIT Kanpur",
+    description: "The central representative, legislative, and supervisory body of the students at IIT Kanpur, fostering student governance and enhancing campus life."
   }
 }
